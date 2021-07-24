@@ -1,25 +1,35 @@
 <xml>
-# Compiled by Kextreme 2021 ©
+<item>
+<title>[B][COLOR dodgerblue]SPLIT INTO SECTIONS[/B][/COLOR] [B] [COLOR red]FOR FASTER LOADING[/B][/COLOR]</title>
+</item>
 <dir>
-<title>Drama</title>
-<link></link>
-<password></password>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
+<title>[COLOR aqua]Recommended Movies A-F[/COLOR] [COLOR yellow]( One Click Links )[/COLOR]</title>
+<link>https://southpawlefty2468rocky.com/southpaw/navyseal/movies/Recommended Movies/Recommended Movies A-F.xml</link>
+<thumbnail>https://i.imgur.com/YqE6lKK.jpg</thumbnail>
+<summary>Recommended Movies A-F</summary>
 </dir>
 <dir>
-<title>Filem</title>
-<link></link>
-<password></password>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
+<title>[COLOR aqua]Recommended Movies G-N[/COLOR] [COLOR yellow]( One Click Links )[/COLOR]</title>
+<link>https://southpawlefty2468rocky.com/southpaw/navyseal/movies/Recommended Movies/Recommended Movies G-N.xml</link>
+<thumbnail>https://i.imgur.com/YqE6lKK.jpg</thumbnail>
+<summary>Recommended Movies G-N</summary>
 </dir>
-<plugin>
-<name>Testings</name>
-<link></link>
-<thumbnail/>
-<summary/>
-</plugin>
+<dir>
+<title>[COLOR aqua]Recommended Movies O-S[/COLOR] [COLOR yellow]( One Click Links )[/COLOR]</title>
+<link>https://southpawlefty2468rocky.com/southpaw/navyseal/movies/Recommended Movies/Recommended Movies O-S.xml</link>
+<thumbnail>https://i.imgur.com/YqE6lKK.jpg</thumbnail>
+<summary>Recommended Movies O-S</summary>
+</dir>
+<dir>
+<title>[COLOR aqua]Recommended Movies T[/COLOR] [COLOR yellow]( One Click Links )[/COLOR]</title>
+<link>https://southpawlefty2468rocky.com/southpaw/navyseal/movies/Recommended Movies/Recommended Movies T.xml</link>
+<thumbnail>https://i.imgur.com/YqE6lKK.jpg</thumbnail>
+<summary>Recommended Movies T</summary>
+</dir>
+<dir>
+<title>[COLOR aqua]Recommended Movies U-Z[/COLOR] [COLOR yellow]( One Click Links )[/COLOR]</title>
+<link>https://southpawlefty2468rocky.com/southpaw/navyseal/movies/Recommended Movies/Recommended Movies U-Z.xml</link>
+<thumbnail>https://i.imgur.com/YqE6lKK.jpg</thumbnail>
+<summary>Recommended Movies U-Z</summary>
+</dir>
 </xml>
