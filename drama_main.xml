@@ -1,54 +1,15 @@
 <xml>
 # Compiled by Kextreme 2021 ©
 <dir>
-<title>[COLOR yellow]Drama[/COLOR]</title>
+<title>Drama</title>
 <link></link>
-<summary>Drama</summary>
-<thumbnail>https://raw.githubusercontent.com/jeffsrightnow/movies/master/icon.jpg</thumbnail>
-</dir>
-<dir>
-<title>[COLOR yellow]Filem[/COLOR] </title>
-<link></link>
-<thumbnail>https://raw.githubusercontent.com/jeffsrightnow/movies/master/icon.jpg</thumbnail>
-<summary>Filem</summary>
-</dir>
-<dir>
-<title>[COLOR yellow]Telemovies[/COLOR]</title>
-<link></link>
-<thumbnail>https://raw.githubusercontent.com/jeffsrightnow/movies/master/icon.jpg</thumbnail>
-<summary>Telemovies</summary>
-</dir>
-<dir>
-<title>[COLOR yellow]TV Shows[/COLOR]</title>
-<link></link>
-<thumbnail>https://raw.githubusercontent.com/jeffsrightnow/movies/master/icon.jpg</thumbnail>
-<summary>Tv Shows</summary>
-</dir>
-<dir>
-<title></title>
-<link></link>
+<password></password>
 <thumbnail></thumbnail>
+<fanart></fanart>
 <summary></summary>
 </dir>
 <dir>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<summary></summary>
-</dir>
-<dir>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<summary></summary>
-</dir>
-<item>
-<title></title>
-<mysettings></mysettings>
-<thumbnail></thumbnail>
-</item>
-<dir>
-<title></title>
+<title>Filem</title>
 <link></link>
 <password></password>
 <thumbnail></thumbnail>
