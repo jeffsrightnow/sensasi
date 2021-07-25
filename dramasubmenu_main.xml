@@ -1,0 +1,35 @@
+<xml>
+<item>
+<title>[B][COLOR dodgerblue]Tonton Drama dan Filem[/B][/COLOR] [B] [COLOR red]PM kami jika Ada Link Down[/B][/COLOR]</title>
+</item>
+<dir>
+<title>[COLOR aqua]Drama[/COLOR] [COLOR yellow]( Sensasi )[/COLOR]</title>
+<link>https://github.com/jeffsrightnow/movies/blob/master/drama.xml</link>
+<thumbnail>https://raw.githubusercontent.com/jeffsrightnow/movies/master/icon.jpg</thumbnail>
+<summary></summary>
+</dir>
+<dir>
+<title>[COLOR aqua]Filem[/COLOR] [COLOR yellow]( Sensasi )[/COLOR]</title>
+<link>https://raw.githubusercontent.com/jeffsrightnow/movies/master/malay%20movies.xml</link>
+<thumbnail>https://raw.githubusercontent.com/jeffsrightnow/movies/master/icon.jpg</thumbnail>
+<summary></summary>
+</dir>
+<dir>
+<title>[COLOR aqua]Telemovies[/COLOR] [COLOR yellow]( Sensasi )[/COLOR]</title>
+<link>https://raw.githubusercontent.com/jeffsrightnow/movies/master/sandiwara.xml</link>
+<thumbnail>https://raw.githubusercontent.com/jeffsrightnow/movies/master/icon.jpg</thumbnail>
+<summary></summary>
+</dir>
+<dir>
+<title>[COLOR aqua]TV Shows[/COLOR] [COLOR yellow]( Sensasi )[/COLOR]</title>
+<link>https://raw.githubusercontent.com/jeffsrightnow/movies/master/Planet.xml</link>
+<thumbnail>https://raw.githubusercontent.com/jeffsrightnow/movies/master/icon.jpg</thumbnail>
+<summary></summary>
+</dir>
+<dir>
+<title>[COLOR aqua]Lagenda[/COLOR] [COLOR yellow]( Sensasi )[/COLOR]</title>
+<link>https://raw.githubusercontent.com/jeffsrightnow/movies/master/Zaman.xml</link>
+<thumbnail>https://raw.githubusercontent.com/jeffsrightnow/movies/master/icon.jpg</thumbnail>
+<summary></summary>
+</dir>
+</xml>
