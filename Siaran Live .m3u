@@ -11,6 +11,8 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="",Astro Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/astro-OASIS.png" tvg-country="" tvg-url="" group-title="",Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Prima.png" tvg-country="" tvg-url="" group-title="",Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Warna.jpg" tvg-country="" tvg-url="" group-title="",Astro Warna
@@ -37,6 +39,8 @@ http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Family%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Family Movies
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18105121/fox-life-logo.png" tvg-country="" tvg-url="" group-title="",Fox Life
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hitsmovies.jpg" tvg-country="" tvg-url="" group-title="",Hits Movies
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 1
