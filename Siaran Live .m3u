@@ -10,13 +10,13 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.mediaprimaomnia.my/wp-content/uploads/2020/07/ntv7-3.jpg" tvg-country="" tvg-url="" group-title="",NTV7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="",Astro Ria
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/astro-OASIS.png" tvg-country="" tvg-url="" group-title="",Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Prima.png" tvg-country="" tvg-url="" group-title="",Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Warna.jpg" tvg-country="" tvg-url="" group-title="",Astro Warna
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Citra.jpg" tvg-country="" tvg-url="" group-title="",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Naura.jpg" tvg-country="" tvg-url="" group-title="",Astro Naura
