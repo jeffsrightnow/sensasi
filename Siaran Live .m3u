@@ -8,7 +8,7 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-TV9.png" tvg-country="" tvg-url="" group-title="",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.mediaprimaomnia.my/wp-content/uploads/2020/07/ntv7-3.jpg" tvg-country="" tvg-url="" group-title="",NTV7
-http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="",Astro Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/astro-OASIS.png" tvg-country="" tvg-url="" group-title="",Astro Oasis
@@ -34,15 +34,15 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hbo-hd-logo-300x300.jpg" tvg-country="" tvg-url="" group-title="",HBO Asia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Movies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8838
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png" tvg-country="" tvg-url="" group-title="",Fox Action Movies
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8839
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Family%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Family Movies
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+https://link.zozotv.xyz:443/Freemium4/unlimited99/102
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18105121/fox-life-logo.png" tvg-country="" tvg-url="" group-title="",Fox Life
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7228
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hitsmovies.jpg" tvg-country="" tvg-url="" group-title="",Hits Movies
-http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7066
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports2.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 2
