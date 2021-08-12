@@ -37,12 +37,12 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Movies
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png" tvg-country="" tvg-url="" group-title="",Fox Action Movies
-
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Family%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Family Movies
 https://link.zozotv.xyz:443/Freemium4/unlimited99/102
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18105121/fox-life-logo.png" tvg-country="" tvg-url="" group-title="",Fox Life
-
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-country="" tvg-url="" group-title="",&Flix HD
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg" tvg-country="" tvg-url="" group-title="",&Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hitsmovies.jpg" tvg-country="" tvg-url="" group-title="",Hits Movies
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 1
