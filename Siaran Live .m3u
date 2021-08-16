@@ -10,7 +10,7 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.mediaprimaomnia.my/wp-content/uploads/2020/07/ntv7-3.jpg" tvg-country="" tvg-url="" group-title="",NTV7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="",Astro Ria
-http://iptv.tvmalaysia.cc:80/737373/737373/6730
+http://iptv.tvmalaysia.cc:80/139664/139664/6730
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/astro-OASIS.png" tvg-country="" tvg-url="" group-title="",Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Prima.png" tvg-country="" tvg-url="" group-title="",Astro Prima
@@ -36,7 +36,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" tvg-country="" tvg-url="" group-title="",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Movies
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/139664/139664/8839
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Family%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Family Movies
 https://link.zozotv.xyz:443/Freemium4/unlimited99/102
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-country="" tvg-url="" group-title="",&Flix HD
@@ -44,15 +44,15 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg" tvg-country="" tvg-url="" group-title="",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hitsmovies.jpg" tvg-country="" tvg-url="" group-title="",Hits Movies
-
+http://iptv.tvmalaysia.cc:80/139664/139664/7066
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/139664/139664/6708
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports2.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 2
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/139664/139664/6710
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports3.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 3
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/139664/139664/6711
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/139664/139664/6712
 
 
 
