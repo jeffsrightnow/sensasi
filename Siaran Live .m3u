@@ -10,13 +10,13 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.mediaprimaomnia.my/wp-content/uploads/2020/07/ntv7-3.jpg" tvg-country="" tvg-url="" group-title="",NTV7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="",Astro Ria
-http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/astro-OASIS.png" tvg-country="" tvg-url="" group-title="",Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Prima.png" tvg-country="" tvg-url="" group-title="",Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Warna.jpg" tvg-country="" tvg-url="" group-title="",Astro Warna
-http://iptv.tvmalaysia.cc:80/737373/737373/6740
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6740
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Citra.jpg" tvg-country="" tvg-url="" group-title="",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Naura.jpg" tvg-country="" tvg-url="" group-title="",Astro Naura
@@ -60,7 +60,7 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6711
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 4
 http://iptv.tvmalaysia.cc:80/139664/139664/6712
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" tvg-country="" tvg-url="" group-title="",Astro Arena
-https://nonton.site:8443/rachman/rachman123/37422
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL.jpg" tvg-country="" tvg-url="" group-title="",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
