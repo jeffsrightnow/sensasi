@@ -45,6 +45,12 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hitsmovies.jpg" tvg-country="" tvg-url="" group-title="",Hits Movies
 http://iptv.tvmalaysia.cc:80/139664/139664/7066
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/newnetflixlogo.jpg" tvg-country="" tvg-url="" group-title="",NETFLIX MOVIES
+https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/146.ts
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movie_logo_design_text_reel_filmstrip_icons_decoration_6829232.jpg" tvg-country="" tvg-url="" group-title="",MIX HOLLYWOOD
+https://aloka-iptv.xyz:443/live/APP/ALOKA-TV/120.ts
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/images.jpg" tvg-country="" tvg-url="" group-title="",MY Cinema
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://a.jsrdn.com/hls/22907/24-hour-free-movies/thumbv_20200922_191828.jpg" tvg-country="" tvg-url="" group-title="",24hr Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" tvg-country="" tvg-url="" group-title="",Cinema Movies
