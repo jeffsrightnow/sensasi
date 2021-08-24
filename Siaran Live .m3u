@@ -71,17 +71,21 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6711
 http://iptv.tvmalaysia.cc:80/139664/139664/6712
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" tvg-country="" tvg-url="" group-title="",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" tvg-country="" tvg-url="" group-title="",Sky Sports Premier League
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.gpl-uk.co.uk/wp-content/uploads/2017/04/Sky-Sports-400-x-400-300x300.png" tvg-country="" tvg-url="" group-title="",Sky Sports Premier League
 http://77.83.117.60:8888/02_ChelseaTV_720p/chunklist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1346184326455689222/qmqR8qFF_400x400.jpg" tvg-country="" tvg-url="" group-title="",Sky Sports Football
+http://tv.rebeliptv.com:83/91595487/07862755/366650.ts
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn3.f-cdn.com/contestentries/1450808/19556750/5bfaa35935263_thumb900.jpg" tvg-country="" tvg-url="" group-title="",S Football
+http://iptv.tvmalaysia.cc:80/jaja8/jaja8/6576
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/18/da/be/18dabeb16cf5b25e0278b425ff1cf0a1.jpg" tvg-country="" tvg-url="" group-title="",Fox Sports 1
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a66ddccb7a5d1b4a98018e543d160ee.jpeg" tvg-country="" tvg-url="" group-title="",BT Sport HD 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/tv-station-true-premier-football-4-1821.png" tvg-country="" tvg-url="" group-title="",True Premier HD4
 http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" tvg-country="" tvg-url="" group-title="",Bein Sports HD 1
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i2.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein1.png" tvg-country="" tvg-url="" group-title="",Bein Sports HD 1
 http://203.159.95.172:8081/live/bein01/chunks.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png" tvg-country="" tvg-url="" group-title="",Bein Sports HD 2
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i0.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein2.png" tvg-country="" tvg-url="" group-title="",Bein Sports HD 2
 http://203.159.95.172:8081/live/bein02/chunks.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a451.png" tvg-country="" tvg-url="" group-title="",Sport TV 2
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
