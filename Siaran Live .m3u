@@ -79,8 +79,10 @@ http://dituduhmaling.xyz/V11710/championstv2.m3u8
 http://tv.rebeliptv.com:83/91595487/07862755/366650.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn3.f-cdn.com/contestentries/1450808/19556750/5bfaa35935263_thumb900.jpg" tvg-country="" tvg-url="" group-title="",S Football
 http://iptv.tvmalaysia.cc:80/jaja8/jaja8/6576
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/18/da/be/18dabeb16cf5b25e0278b425ff1cf0a1.jpg" tvg-country="" tvg-url="" group-title="",Fox Sports 1
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-1-60.png" tvg-country="" tvg-url="" group-title="",Fox Sports HD 1
 http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sg-fox-sports-2-1044.png" tvg-country="" tvg-url="" group-title="",Fox Sports HD 2
+http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a66ddccb7a5d1b4a98018e543d160ee.jpeg" tvg-country="" tvg-url="" group-title="",BT Sport HD 1
 http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/BT-Sport-2.png" tvg-country="" tvg-url="" group-title="",BT Sport HD 2
