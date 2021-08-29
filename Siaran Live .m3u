@@ -16,7 +16,7 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Prima.png" tvg-country="" tvg-url="" group-title="",Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Warna.jpg" tvg-country="" tvg-url="" group-title="",Astro Warna
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6740
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065892
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Citra.jpg" tvg-country="" tvg-url="" group-title="",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Naura.jpg" tvg-country="" tvg-url="" group-title="",Astro Naura
@@ -36,7 +36,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" tvg-country="" tvg-url="" group-title="",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Movies
-http://iptv.tvmalaysia.cc:80/139664/139664/8839
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745773
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png" tvg-country="" tvg-url="" group-title="",Fox Action Movies
 http://iptv.tvmalaysia.cc:80/139664/139664/8839
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-country="" tvg-url="" group-title="",&Flix HD
