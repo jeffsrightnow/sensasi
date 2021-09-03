@@ -38,7 +38,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Movies
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745773
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png" tvg-country="" tvg-url="" group-title="",Fox Action Movies
-http://iptv.tvmalaysia.cc:80/139664/139664/8839
+https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202498
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-country="" tvg-url="" group-title="",&Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg" tvg-country="" tvg-url="" group-title="",&Prive HD
@@ -72,7 +72,7 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports3.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 3
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 4
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6712
+http://iptv.tvmalaysia.cc:80/139664/139664/6712
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" tvg-country="" tvg-url="" group-title="",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" tvg-country="" tvg-url="" group-title="", Champion TV 1
@@ -91,6 +91,8 @@ http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
 http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/BT-Sport-2.png" tvg-country="" tvg-url="" group-title="",BT Sport HD 2
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6611
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://tbivision.com/files/2019/02/BT-Sport.jpg" tvg-country="" tvg-url="" group-title="",BT Sport HD 3
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6612
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" tvg-country="" tvg-url="" group-title="",True Premier HD2
 http://boxmovie-th.com/doo/epl-2/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" tvg-country="" tvg-url="" group-title="",True Premier HD4
@@ -106,7 +108,7 @@ http://77.83.117.60:8888/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL.jpg" tvg-country="" tvg-url="" group-title="",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" tvg-country="" tvg-url="" group-title="",WWE Network
-https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202587
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6849
 
 
 
