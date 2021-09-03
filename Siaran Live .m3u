@@ -90,7 +90,7 @@ http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a66ddccb7a5d1b4a98018e543d160ee.jpeg" tvg-country="" tvg-url="" group-title="",BT Sport HD 1
 http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/BT-Sport-2.png" tvg-country="" tvg-url="" group-title="",BT Sport HD 2
-http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6611
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" tvg-country="" tvg-url="" group-title="",True Premier HD2
 http://boxmovie-th.com/doo/epl-2/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" tvg-country="" tvg-url="" group-title="",True Premier HD4
@@ -100,13 +100,13 @@ http://lengo-sentir.xyz/media/sport/premium/beINMAX
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i0.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein2.png" tvg-country="" tvg-url="" group-title="",Bein Sports HD 2
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://apprecs.org/ios/images/app-icons/256/ed/1169885165.jpg" tvg-country="" tvg-url="" group-title="",MUTV
-http://77.83.117.60:8888/02_MUTV_720p/chunklist.m3u8
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7236
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://e0.365dm.com/18/05/512x512/skysports-lfctv-ass_4298877.jpg" tvg-country="" tvg-url="" group-title="",LFCTV
 http://77.83.117.60:8888/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL.jpg" tvg-country="" tvg-url="" group-title="",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" tvg-country="" tvg-url="" group-title="",WWE Network
-http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8
+https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202587
 
 
 
