@@ -34,7 +34,7 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hbo-hd-logo-300x300.jpg" tvg-country="" tvg-url="" group-title="",HBO Asia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" tvg-country="" tvg-url="" group-title="",Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+http://watchindia.net:8880/live/33253/72963/2080.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Movies
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745773
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png" tvg-country="" tvg-url="" group-title="",Fox Action Movies
@@ -45,6 +45,10 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hitsmovies.jpg" tvg-country="" tvg-url="" group-title="",Hits Movies
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745693
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.satellitesa.com/wp-content/uploads/2021/04/OSN-Action-392x419.jpg" tvg-country="" tvg-url="" group-title="",OSN Action 
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43347
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movies-now.jpg" tvg-country="" tvg-url="" group-title="",Movies NOW 
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51792
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/newnetflixlogo.jpg" tvg-country="" tvg-url="" group-title="",NETFLIX MOVIES
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movie_logo_design_text_reel_filmstrip_icons_decoration_6829232.jpg" tvg-country="" tvg-url="" group-title="",MIX HOLLYWOOD
