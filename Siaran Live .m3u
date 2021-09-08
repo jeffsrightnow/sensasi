@@ -34,7 +34,7 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hbo-hd-logo-300x300.jpg" tvg-country="" tvg-url="" group-title="",HBO Asia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" tvg-country="" tvg-url="" group-title="",Star Movies HD
-http://watchindia.net:8880/live/33253/72963/2080.m3u8
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Movies
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745773
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png" tvg-country="" tvg-url="" group-title="",Fox Action Movies
@@ -85,8 +85,8 @@ http://dituduhmaling.xyz/V11710/championstv1.m3u8
 http://dituduhmaling.xyz/V11710/championstv2.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1346184326455689222/qmqR8qFF_400x400.jpg" tvg-country="" tvg-url="" group-title="",Sky Sports Football
 http://tv.rebeliptv.com:83/91595487/07862755/366650.ts
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn3.f-cdn.com/contestentries/1450808/19556750/5bfaa35935263_thumb900.jpg" tvg-country="" tvg-url="" group-title="",S Football
-http://iptv.tvmalaysia.cc:80/jaja8/jaja8/6576
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://lh6.googleusercontent.com/-WXfxVJe3w9o/TOaPi5eovkI/AAAAAAAAAQY/088BxWzjFiA/s1600/SuperSport+logo+2010+asteroid+3D.jpg" tvg-country="" tvg-url="" group-title="",S Football
+http://iptv.tvmalaysia.cc/live/932633/932633/6575.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-1-60.png" tvg-country="" tvg-url="" group-title="",Fox Sports HD 1
 http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sg-fox-sports-2-1044.png" tvg-country="" tvg-url="" group-title="",Fox Sports HD 2
