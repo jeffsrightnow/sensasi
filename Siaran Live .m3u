@@ -21,6 +21,8 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065892
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Naura.jpg" tvg-country="" tvg-url="" group-title="",Astro Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://apkplz.net/storage/images/my/awesometv/app/awesometv/my.awesometv.app.awesometv_1.png" tvg-country="" tvg-url="" group-title="",Awesome TV
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-alhijrah-150x150.png" tvg-country="" tvg-url="" group-title="",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Dramasangat.jpg" tvg-country="" tvg-url="" group-title="",Drama Sangat
@@ -48,7 +50,7 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745693
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.satellitesa.com/wp-content/uploads/2021/04/OSN-Action-392x419.jpg" tvg-country="" tvg-url="" group-title="",OSN Action 
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43347
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movies-now.jpg" tvg-country="" tvg-url="" group-title="",Movies NOW 
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51792
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/8999
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/newnetflixlogo.jpg" tvg-country="" tvg-url="" group-title="",NETFLIX MOVIES
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movie_logo_design_text_reel_filmstrip_icons_decoration_6829232.jpg" tvg-country="" tvg-url="" group-title="",MIX HOLLYWOOD
@@ -79,10 +81,12 @@ http://iptv.tvmalaysia.cc/live/932633/932633/6711.ts
 http://iptv.tvmalaysia.cc/live/932633/932633/6712.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" tvg-country="" tvg-url="" group-title="",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" tvg-country="" tvg-url="" group-title="", Champion TV 1
-http://dituduhmaling.xyz/V11710/championstv1.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" tvg-country="" tvg-url="" group-title="", Champion TV 2
-http://dituduhmaling.xyz/V11710/championstv2.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/GdIXusA.png" tvg-country="" tvg-url="" group-title="", Champions TV 1
+https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202564
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/sizF3bc.png" tvg-country="" tvg-url="" group-title="", Champions TV 2
+https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202565
+#EXTINF: -1 tvg-id="ChampionTV3.id" tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="SPORTS", Champions TV 3
+https://m3u-editor.com/serve/0d4da380-f6b0-11eb-96a4-d72c43a44a3b/350202566
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1346184326455689222/qmqR8qFF_400x400.jpg" tvg-country="" tvg-url="" group-title="",Sky Sports Football
 http://tv.rebeliptv.com:83/91595487/07862755/366650.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://lh6.googleusercontent.com/-WXfxVJe3w9o/TOaPi5eovkI/AAAAAAAAAQY/088BxWzjFiA/s1600/SuperSport+logo+2010+asteroid+3D.jpg" tvg-country="" tvg-url="" group-title="",S Football
