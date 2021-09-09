@@ -48,29 +48,29 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hitsmovies.jpg" tvg-country="" tvg-url="" group-title="",Hits Movies
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745693
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://archive.org/download/showtime_201708/showtime.png" tvg-country="" tvg-url="" group-title="",Showtime HD 
-http://watchindia.net:8880/live/33253/72963/2054.m3u8
+http://watchindia.net:8880/live/33253/72963/2054.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://archive.org/download/SkyCinemaComedy/sky%20cinema%20comedy.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Comedy 
-http://watchindia.net:8880/live/33253/72963/2177.m3u8
+http://watchindia.net:8880/live/33253/72963/2177.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://archive.org/download/SkyCinemaDisneyHd/sky%20cinema%20disney%20hd.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Disney
-http://watchindia.net:8880/live/33253/72963/2175.m3u8
+http://watchindia.net:8880/live/33253/72963/2175.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://archive.org/download/SkyCinemaDramaAndRomance/sky%20cinema%20drama%20and%20romance.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Drama
-http://watchindia.net:8880/live/33253/72963/2179.m3u8
+http://watchindia.net:8880/live/33253/72963/2179.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://archive.org/download/SkyCinemaFamily/sky%20cinema%20family.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Family
-http://watchindia.net:8880/live/33253/72963/2173.m3u8
+http://watchindia.net:8880/live/33253/72963/2173.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://archive.org/download/SkyCinemaGreatsHd_201804/sky%20cinema%20greats%20hd.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Greats
-http://watchindia.net:8880/live/33253/72963/2172.m3u8
+http://watchindia.net:8880/live/33253/72963/2172.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://archive.org/download/SkyCinemaHits/sky%20cinema%20hits.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Hits
-http://watchindia.net:8880/live/33253/72963/2171.m3u8
+http://watchindia.net:8880/live/33253/72963/2171.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://archive.org/download/SkyCinemaPremiere/sky%20cinema%20premiere.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Premiere
-http://watchindia.net:8880/live/33253/72963/2169.m3u8
+http://watchindia.net:8880/live/33253/72963/2169.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://archive.org/download/SkyCinemaSciFiAndHorror/sky%20cinema%20sci-fi%20and%20horror.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Sci-Fi and Horror 
-http://watchindia.net:8880/live/33253/72963/2180.m3u8
+http://watchindia.net:8880/live/33253/72963/2180.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://archive.org/download/SkyCinemaSelect/sky%20cinema%20select.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Select 
-http://watchindia.net:8880/live/33253/72963/2170.m3u8
+http://watchindia.net:8880/live/33253/72963/2170.ts
 EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://archive.org/download/SkyCinemaCrimeAndThriller/sky%20cinema%20crime%20and%20thriller.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Thriller 
-http://watchindia.net:8880/live/33253/72963/2178.m3u8
+http://watchindia.net:8880/live/33253/72963/2178.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movies-now.jpg" tvg-country="" tvg-url="" group-title="",Movies NOW 
-http://watchindia.net:8880/live/33253/72963/2102.m3u8
+http://watchindia.net:8880/live/33253/72963/2102.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/newnetflixlogo.jpg" tvg-country="" tvg-url="" group-title="",NETFLIX MOVIES
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movie_logo_design_text_reel_filmstrip_icons_decoration_6829232.jpg" tvg-country="" tvg-url="" group-title="",MIX HOLLYWOOD
