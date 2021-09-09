@@ -25,6 +25,8 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9016
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-alhijrah-150x150.png" tvg-country="" tvg-url="" group-title="",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/download%20(1).jpg" tvg-country="" tvg-url="" group-title="",Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Dramasangat.jpg" tvg-country="" tvg-url="" group-title="",Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.mediacorp.sg/image/8917528/1x1/250/250/33fa8b02745e4f0970ef92778b6a75d9/ug/suria--p-.jpg" tvg-country="" tvg-url="" group-title="",Suria  
