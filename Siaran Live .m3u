@@ -71,6 +71,22 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg" tvg-country="" tvg-url="" group-title="",tvN Movies
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Premiere
+http://watchindia.net:8880/live/33253/72963/2169.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Select.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Select
+http://watchindia.net:8880/live/33253/72963/2170.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Hits
+http://watchindia.net:8880/live/33253/72963/2171.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Greats
+http://watchindia.net:8880/live/33253/72963/2172.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Disney.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Disney
+http://watchindia.net:8880/live/33253/72963/2175.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Action
+http://watchindia.net:8880/live/33253/72963/2176.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Thriller
+http://watchindia.net:8880/live/33253/72963/2178.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png" tvg-country="" tvg-url="" group-title="",Sky Cinema Sci-Fi/Horror
+http://watchindia.net:8880/live/33253/72963/2180.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 1
 http://iptv.tvmalaysia.cc/live/932633/932633/6708.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports2.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 2
