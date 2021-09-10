@@ -39,6 +39,8 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" tvg-country="" tvg-url="" group-title="",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg" tvg-country="" tvg-url="" group-title="",Star Movies Select HD
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Movies
 http://178.175.132.170:8888/02_FoxMoviesTH_720p/chunklist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png" tvg-country="" tvg-url="" group-title="",Fox Action Movies
@@ -82,9 +84,9 @@ http://iptv.tvmalaysia.cc/live/932633/932633/6712.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" tvg-country="" tvg-url="" group-title="",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/GdIXusA.png" tvg-country="" tvg-url="" group-title="", Champions TV 1
-http://dituduhmaling.xyz/V11710/championstv1.m3u8
+http://gpc.my.id/vidio/champion-tv-1.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/sizF3bc.png" tvg-country="" tvg-url="" group-title="", Champions TV 2
-http://dituduhmaling.xyz/V11710/championstv2.m3u8
+http://gpc.my.id/vidio/champion-tv-2.m3u8
 #EXTINF: -1 tvg-id="ChampionTV3.id" tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="SPORTS", Champions TV 3
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1346184326455689222/qmqR8qFF_400x400.jpg" tvg-country="" tvg-url="" group-title="",Sky Sports Football
