@@ -21,10 +21,6 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065892
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Naura.jpg" tvg-country="" tvg-url="" group-title="",Astro Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/HyppTV_Logo.jpg/220px-HyppTV_Logo.jpg" tvg-country="" tvg-url="" group-title="",Hypp Sensasi HD
-http://protv-nordic.club:8080/julia/julia123/28664
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://4.bp.blogspot.com/-gYiTq_pCGsA/W8Hc-ywXeoI/AAAAAAAAJEY/jyaIdV5OShwvULxDV98iop78iJVZlLsfQCLcBGAs/w1200-h1200-p-k-no-nu/HyppInspirasi%2BHD%2BLive%2BStreaming.png" tvg-country="" tvg-url="" group-title="",Hypp Inspirasi HD
-http://protv-nordic.club:8080/julia/julia123/33256
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-alhijrah-150x150.png" tvg-country="" tvg-url="" group-title="",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/download%20(1).jpg" tvg-country="" tvg-url="" group-title="",Makkah TV
@@ -34,7 +30,7 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.mediacorp.sg/image/8917528/1x1/250/250/33fa8b02745e4f0970ef92778b6a75d9/ug/suria--p-.jpg" tvg-country="" tvg-url="" group-title="",Suria  
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/51228a21277171.562fe7a2cca71.jpg" tvg-country="" tvg-url="" group-title="",Celestial Movies  
-http://protv-nordic.club:8080/julia/julia123/28688
+http://gcs2.xyz:2052/anh/123/1109697
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Boo.jpg" tvg-country="" tvg-url="" group-title="",Astro Boo 
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hbo-hd-logo-300x300.jpg" tvg-country="" tvg-url="" group-title="",HBO Asia
