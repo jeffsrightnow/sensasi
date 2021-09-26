@@ -40,7 +40,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg" tvg-country="" tvg-url="" group-title="",Star Movies Select HD
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Movies
-http://178.175.132.170:8888/02_FoxMoviesTH_720p/chunklist.m3u8
+http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png" tvg-country="" tvg-url="" group-title="",Fox Action Movies
 http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/20.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-country="" tvg-url="" group-title="",&Flix HD
@@ -52,7 +52,7 @@ http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://tvshqipon.com/wp-content/uploads/2019/12/Tring-Action-Live.png" tvg-country="" tvg-url="" group-title="",Tring Action Movie 1
 http://93.157.62.180/TringAction/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Sony_Pix_HD.jpg" tvg-country="" tvg-url="" group-title="",Sony Pix HD 
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movies-now.jpg" tvg-country="" tvg-url="" group-title="",Movies NOW 
 http://103.153.39.34:8000/play/a050/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/newnetflixlogo.jpg" tvg-country="" tvg-url="" group-title="",NETFLIX MOVIES
@@ -66,11 +66,11 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" tvg-country="" tvg-url="" group-title="",Cinema Movies
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/0c/8e/96/0c8e963fb93d7bb57bfad5451af53166.jpg" tvg-country="" tvg-url="" group-title="",MBC 2 HD
-http://rec2.distv.net:80/itamar/123456/48
+http://sonyiptv.net:8080/12345678/12345678/205776
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/images%20(1).jpg" tvg-country="" tvg-url="" group-title="",MBC Action HD
-http://rec2.distv.net:80/itamar/123456/49
+http://sonyiptv.net:8080/12345678/12345678/205783
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX_400x400.jpg" tvg-country="" tvg-url="" group-title="",MBC Max HD
-http://rec2.distv.net:80/itamar/123456/53
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/download.png" tvg-country="" tvg-url="" group-title="",Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg" tvg-country="" tvg-url="" group-title="",tvN Movies
