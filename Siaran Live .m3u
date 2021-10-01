@@ -38,11 +38,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" tvg-country="" tvg-url="" group-title="",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg" tvg-country="" tvg-url="" group-title="",Star Movies Select HD
-http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Fox%20Movies.jpg" tvg-country="" tvg-url="" group-title="",Fox Movies
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/50
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fox-action-movies-logo.png" tvg-country="" tvg-url="" group-title="",Fox Action Movies
-http://mantul.biz.id:8888/live/iptvtreemy/KKNWB4foYs/20.ts
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/221
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-country="" tvg-url="" group-title="",&Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg" tvg-country="" tvg-url="" group-title="",&Prive HD
@@ -84,9 +80,9 @@ http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 1
 http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4989
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports2.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 2
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563143
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports3.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 3
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563146
+http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 4
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563148
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" tvg-country="" tvg-url="" group-title="",Astro Arena
@@ -99,10 +95,6 @@ http://dituduhmaling.xyz/V11710/championstv2.m3u8
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://lh6.googleusercontent.com/-WXfxVJe3w9o/TOaPi5eovkI/AAAAAAAAAQY/088BxWzjFiA/s1600/SuperSport+logo+2010+asteroid+3D.jpg" tvg-country="" tvg-url="" group-title="",S Football
 http://iptv.tvmalaysia.cc/live/932633/932633/6575.ts
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-1-60.png" tvg-country="" tvg-url="" group-title="",Fox Sports HD 1
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/6274
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sg-fox-sports-2-1044.png" tvg-country="" tvg-url="" group-title="",Fox Sports HD 2
-http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/6275
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a66ddccb7a5d1b4a98018e543d160ee.jpeg" tvg-country="" tvg-url="" group-title="",BT Sport HD 1
 http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/BT-Sport-2.png" tvg-country="" tvg-url="" group-title="",BT Sport HD 2
