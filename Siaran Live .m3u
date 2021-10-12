@@ -81,6 +81,8 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563148
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/spotvdownload.png" tvg-country="" tvg-url="" group-title="",SpoTV
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://kortb.net/uploads/tv_image/spotv2.png" tvg-country="" tvg-url="" group-title="",SpoTV 2
+https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" tvg-country="" tvg-url="" group-title="",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/GdIXusA.png" tvg-country="" tvg-url="" group-title="", Champions TV 1
@@ -90,21 +92,21 @@ http://dituduhmaling.xyz/V11710/championstv2.m3u8
 #EXTINF: -1 tvg-id="ChampionTV3.id" tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="SPORTS", Champions TV 3
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://lh6.googleusercontent.com/-WXfxVJe3w9o/TOaPi5eovkI/AAAAAAAAAQY/088BxWzjFiA/s1600/SuperSport+logo+2010+asteroid+3D.jpg" tvg-country="" tvg-url="" group-title="",S Football
-http://iptv.tvmalaysia.cc/live/932633/932633/6575.ts
+https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a66ddccb7a5d1b4a98018e543d160ee.jpeg" tvg-country="" tvg-url="" group-title="",BT Sport HD 1
-http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/BT-Sport-2.png" tvg-country="" tvg-url="" group-title="",BT Sport HD 2
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6611
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://tbivision.com/files/2019/02/BT-Sport.jpg" tvg-country="" tvg-url="" group-title="",BT Sport HD 3
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6612
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" tvg-country="" tvg-url="" group-title="",True Premier HD2
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6749
+https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" tvg-country="" tvg-url="" group-title="",True Premier HD4
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6792
+https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i2.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein1.png" tvg-country="" tvg-url="" group-title="",Bein Sports HD 1
 http://iptv.tvmalaysia.cc:80/penang189/penang189/6748
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i0.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein2.png" tvg-country="" tvg-url="" group-title="",Bein Sports HD 2
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://apprecs.org/ios/images/app-icons/256/ed/1169885165.jpg" tvg-country="" tvg-url="" group-title="",MUTV
 http://iptv.tvmalaysia.cc:80/penang189/penang189/7236
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://e0.365dm.com/18/05/512x512/skysports-lfctv-ass_4298877.jpg" tvg-country="" tvg-url="" group-title="",LFCTV
