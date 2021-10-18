@@ -40,9 +40,9 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg" tvg-country="" tvg-url="" group-title="",Star Movies Select HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/221
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-country="" tvg-url="" group-title="",&Flix HD
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/141.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg" tvg-country="" tvg-url="" group-title="",&Prive HD
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/63
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hitsmovies.jpg" tvg-country="" tvg-url="" group-title="",Hits Movies
 http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://tvshqipon.com/wp-content/uploads/2019/12/Tring-Action-Live.png" tvg-country="" tvg-url="" group-title="",Tring Action Movie 1
@@ -78,7 +78,9 @@ https://tinyurl.com/ym8cntjt
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports3.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 3
 http://93.157.62.180/Supersport3/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 4
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563148
+https://tinyurl.com/cwvzchmv
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.ytimg.com/vi/738L9yis9fU/mqdefault.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 5
+http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/413.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/spotvdownload.png" tvg-country="" tvg-url="" group-title="",SpoTV
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://kortb.net/uploads/tv_image/spotv2.png" tvg-country="" tvg-url="" group-title="",SpoTV 2
@@ -115,6 +117,8 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/7237
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" tvg-country="" tvg-url="" group-title="",WWE Network
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://prod-true-visions-media.s3.ap-southeast-1.amazonaws.com/89e83c8e06232d09abdd6673a44da5_Rock-Extreme.jpg" tvg-country="" tvg-url="" group-title="",Rock Extreme
+http://45.126.83.51/dr9445/h/h15/index.m3u8
 
 
 
