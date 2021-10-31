@@ -82,17 +82,17 @@ https://tinyurl.com/cwvzchmv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.ytimg.com/vi/738L9yis9fU/mqdefault.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 5
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/413.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/spotvdownload.png" tvg-country="" tvg-url="" group-title="",SpoTV
-https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+https://master.server-cdn-streaming.com/api/live-player/37/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://kortb.net/uploads/tv_image/spotv2.png" tvg-country="" tvg-url="" group-title="",SpoTV 2
-https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+https://master.server-cdn-streaming.com/api/live-player/39/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" tvg-country="" tvg-url="" group-title="",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/GdIXusA.png" tvg-country="" tvg-url="" group-title="", Champions TV 1
-http://dituduhmaling.xyz/V11710/championstv1.m3u8
+https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/sizF3bc.png" tvg-country="" tvg-url="" group-title="", Champions TV 2
-http://dituduhmaling.xyz/V11710/championstv2.m3u8
+https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
 #EXTINF: -1 tvg-id="ChampionTV3.id" tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="SPORTS", Champions TV 3
-http://dituduhmaling.xyz/V11710/championstv3.m3u8
+https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://lh6.googleusercontent.com/-WXfxVJe3w9o/TOaPi5eovkI/AAAAAAAAAQY/088BxWzjFiA/s1600/SuperSport+logo+2010+asteroid+3D.jpg" tvg-country="" tvg-url="" group-title="",S Football
 https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a66ddccb7a5d1b4a98018e543d160ee.jpeg" tvg-country="" tvg-url="" group-title="",BT Sport HD 1
