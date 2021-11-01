@@ -59,8 +59,10 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://a.jsrdn.com/hls/22907/24-hour-free-movies/thumbv_20200922_191828.jpg" tvg-country="" tvg-url="" group-title="",24hr Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" tvg-country="" tvg-url="" group-title="",Cinema Movies
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://previews.123rf.com/images/pazhyna/pazhyna1709/pazhyna170900030/85934183-cinema-movie-time-banner-.jpg" tvg-country="" tvg-url="" group-title="",Cinema Movies HD
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/starchin.jpg" tvg-country="" tvg-url="" group-title="",Star Chinese Movies HD
+http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/0c/8e/96/0c8e963fb93d7bb57bfad5451af53166.jpg" tvg-country="" tvg-url="" group-title="",MBC 2 HD
 https://au7live.tooliserver.com/live/149017_0.m3u8?session=
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/images%20(1).jpg" tvg-country="" tvg-url="" group-title="",MBC Action HD
@@ -119,6 +121,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://prod-true-visions-media.s3.ap-southeast-1.amazonaws.com/89e83c8e06232d09abdd6673a44da5_Rock-Extreme.jpg" tvg-country="" tvg-url="" group-title="",Rock Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/F1.jpg" tvg-country="" tvg-url="" group-title="",Formula 1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/PGA_Tour_on_NBC_logo.jpg" tvg-country="" tvg-url="" group-title="",Golf 
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i1.sndcdn.com/avatars-000321311552-paqwbo-t500x500.jpg" tvg-country="" tvg-url="" group-title="",Top Music 
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+
 
 
 
