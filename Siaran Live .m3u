@@ -40,9 +40,9 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg" tvg-country="" tvg-url="" group-title="",Star Movies Select HD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/221
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" tvg-country="" tvg-url="" group-title="",&Flix HD
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/141.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/91694
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg" tvg-country="" tvg-url="" group-title="",&Prive HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/63
+http://pyramidsiptv.com:8080/mohamed/mohamed123/79877
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/hitsmovies.jpg" tvg-country="" tvg-url="" group-title="",Hits Movies
 http://93.190.139.35:8278/streams/d/Hitsmovie/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://tvshqipon.com/wp-content/uploads/2019/12/Tring-Action-Live.png" tvg-country="" tvg-url="" group-title="",Tring Action Movie 1
@@ -50,7 +50,7 @@ http://93.157.62.180/TringAction/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Sony_Pix_HD.jpg" tvg-country="" tvg-url="" group-title="",Sony Pix HD 
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movies-now.jpg" tvg-country="" tvg-url="" group-title="",Movies NOW 
-http://103.153.39.34:8000/play/a050/index.m3u8
+http://pyramidsiptv.com:8080/mohamed/mohamed123/91693
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/newnetflixlogo.jpg" tvg-country="" tvg-url="" group-title="",NETFLIX MOVIES
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/movie_logo_design_text_reel_filmstrip_icons_decoration_6829232.jpg" tvg-country="" tvg-url="" group-title="",MIX HOLLYWOOD
@@ -64,11 +64,11 @@ http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/starchin.jpg" tvg-country="" tvg-url="" group-title="",Star Chinese Movies HD
 http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/0c/8e/96/0c8e963fb93d7bb57bfad5451af53166.jpg" tvg-country="" tvg-url="" group-title="",MBC 2 HD
-https://au7live.tooliserver.com/live/149017_0.m3u8?session=
+http://forevertv.me:8080/Iptvtree/b957c2YMj6/33165
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/images%20(1).jpg" tvg-country="" tvg-url="" group-title="",MBC Action HD
-https://au7live.tooliserver.com/live/149013_0.m3u8?session=
+http://forevertv.me:8080/Iptvtree/b957c2YMj6/33169
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX_400x400.jpg" tvg-country="" tvg-url="" group-title="",MBC Max HD
-https://au7live.tooliserver.com/live/149015_0.m3u8?session=
+http://forevertv.me:8080/Iptvtree/b957c2YMj6/33168
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/download.png" tvg-country="" tvg-url="" group-title="",Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg" tvg-country="" tvg-url="" group-title="",tvN Movies
@@ -96,7 +96,7 @@ https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
 #EXTINF: -1 tvg-id="ChampionTV3.id" tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="SPORTS", Champions TV 3
 https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://lh6.googleusercontent.com/-WXfxVJe3w9o/TOaPi5eovkI/AAAAAAAAAQY/088BxWzjFiA/s1600/SuperSport+logo+2010+asteroid+3D.jpg" tvg-country="" tvg-url="" group-title="",S Football
-https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a66ddccb7a5d1b4a98018e543d160ee.jpeg" tvg-country="" tvg-url="" group-title="",BT Sport HD 1
 https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/BT-Sport-2.png" tvg-country="" tvg-url="" group-title="",BT Sport HD 2
@@ -106,7 +106,7 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6612
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" tvg-country="" tvg-url="" group-title="",True Premier HD2
 https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" tvg-country="" tvg-url="" group-title="",True Premier HD4
-https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i2.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein1.png" tvg-country="" tvg-url="" group-title="",Bein Sports HD 1
 http://iptv.tvmalaysia.cc:80/penang189/penang189/6748
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i0.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein2.png" tvg-country="" tvg-url="" group-title="",Bein Sports HD 2
