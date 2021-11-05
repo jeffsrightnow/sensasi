@@ -74,13 +74,13 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg" tvg-country="" tvg-url="" group-title="",tvN Movies
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 1
-https://tinyurl.com/32a67rds
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54206.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports2.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 2
-https://tinyurl.com/ym8cntjt
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54207.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports3.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 3
-https://tinyurl.com/5f3atddd
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54208.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 4
-https://tinyurl.com/cwvzchmv
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54209.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.ytimg.com/vi/738L9yis9fU/mqdefault.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 5
 http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/413.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/spotvdownload.png" tvg-country="" tvg-url="" group-title="",SpoTV
@@ -89,12 +89,6 @@ https://master.server-cdn-streaming.com/api/live-player/37/live.m3u8
 https://master.server-cdn-streaming.com/api/live-player/39/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" tvg-country="" tvg-url="" group-title="",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/GdIXusA.png" tvg-country="" tvg-url="" group-title="", Champions TV 1
-https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/sizF3bc.png" tvg-country="" tvg-url="" group-title="", Champions TV 2
-https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
-#EXTINF: -1 tvg-id="ChampionTV3.id" tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="SPORTS", Champions TV 3
-https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://lh6.googleusercontent.com/-WXfxVJe3w9o/TOaPi5eovkI/AAAAAAAAAQY/088BxWzjFiA/s1600/SuperSport+logo+2010+asteroid+3D.jpg" tvg-country="" tvg-url="" group-title="",S Football
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a66ddccb7a5d1b4a98018e543d160ee.jpeg" tvg-country="" tvg-url="" group-title="",BT Sport HD 1
@@ -104,7 +98,7 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6611
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://tbivision.com/files/2019/02/BT-Sport.jpg" tvg-country="" tvg-url="" group-title="",BT Sport HD 3
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6612
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" tvg-country="" tvg-url="" group-title="",True Premier HD2
-https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" tvg-country="" tvg-url="" group-title="",True Premier HD4
 https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i2.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein1.png" tvg-country="" tvg-url="" group-title="",Bein Sports HD 1
