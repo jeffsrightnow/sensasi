@@ -18,7 +18,7 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Warna.jpg" tvg-country="" tvg-url="" group-title="",Astro Warna
 http://iptv.tvmalaysia.cc:80/100904/100904/6740
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Citra.jpg" tvg-country="" tvg-url="" group-title="",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599321
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Naura.jpg" tvg-country="" tvg-url="" group-title="",Astro Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-alhijrah-150x150.png" tvg-country="" tvg-url="" group-title="",TV Alhijrah
@@ -80,7 +80,7 @@ http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54206.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports2.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 2
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54207.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports3.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 3
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54208.m3u8
+http://93.157.62.180/Supersport3/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 4
 https://tinyurl.com/cwvzchmv
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.ytimg.com/vi/738L9yis9fU/mqdefault.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 5
