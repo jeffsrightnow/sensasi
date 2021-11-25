@@ -4,9 +4,9 @@ http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599307
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-TV2.png" tvg-country="" tvg-url="" group-title="",TV2  
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599308
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-TV3.png" tvg-country="" tvg-url="" group-title="",TV3
-http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599309
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-TV9.png" tvg-country="" tvg-url="" group-title="",TV9
-http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599310
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.mediaprimaomnia.my/wp-content/uploads/2020/07/ntv7-3.jpg" tvg-country="" tvg-url="" group-title="",NTV7
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599299
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="",Astro Ria
@@ -26,7 +26,7 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/download%20(1).jpg" tvg-country="" tvg-url="" group-title="",Makkah TV
 http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599292
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Dramasangat.jpg" tvg-country="" tvg-url="" group-title="",Drama Sangat
-http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599274
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.mediacorp.sg/image/8917528/1x1/250/250/33fa8b02745e4f0970ef92778b6a75d9/ug/suria--p-.jpg" tvg-country="" tvg-url="" group-title="",Suria  
 https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/51228a21277171.562fe7a2cca71.jpg" tvg-country="" tvg-url="" group-title="",Celestial Movies  
@@ -63,6 +63,8 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/starchin.jpg" tvg-country="" tvg-url="" group-title="",Star Chinese Movies HD
 http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://image.roku.com/developer_channels/prod/6cd28e3d6a490f73747008f4f9e5530a16abe63a90d81c784869ea9ad84a8f7c.png" tvg-country="" tvg-url="" group-title="",Free Flix HD
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/0c/8e/96/0c8e963fb93d7bb57bfad5451af53166.jpg" tvg-country="" tvg-url="" group-title="",MBC 2 HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80261
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/images%20(1).jpg" tvg-country="" tvg-url="" group-title="",MBC Action HD
@@ -102,9 +104,9 @@ https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" tvg-country="" tvg-url="" group-title="",True Premier HD4
 https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i2.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein1.png" tvg-country="" tvg-url="" group-title="",Bein Sports HD 1
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6748
+http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599249
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i0.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein2.png" tvg-country="" tvg-url="" group-title="",Bein Sports HD 2
-https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
+http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599248
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://apprecs.org/ios/images/app-icons/256/ed/1169885165.jpg" tvg-country="" tvg-url="" group-title="",MUTV
 http://iptv.tvmalaysia.cc:80/penang189/penang189/7236
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://e0.365dm.com/18/05/512x512/skysports-lfctv-ass_4298877.jpg" tvg-country="" tvg-url="" group-title="",LFCTV
