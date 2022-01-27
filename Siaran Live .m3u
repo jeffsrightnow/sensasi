@@ -10,17 +10,17 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.mediaprimaomnia.my/wp-content/uploads/2020/07/ntv7-3.jpg" tvg-country="" tvg-url="" group-title="",NTV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="",Astro Ria
-http://iptv.tvmalaysia.cc/jalan8/jalan8/6730
+http://139.99.90.11/live/1159189903/4938860969/13.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/astro-OASIS.png" tvg-country="" tvg-url="" group-title="",Astro Oasis
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6725
+http://139.99.90.11/live/1159189903/4938860969/17.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Prima.png" tvg-country="" tvg-url="" group-title="",Astro Prima
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6727
+http://139.99.90.11/live/1159189903/4938860969/16.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Warna.jpg" tvg-country="" tvg-url="" group-title="",Astro Warna
 https://my.odtv.uk/live/9486331171/7860879594/18.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Citra.jpg" tvg-country="" tvg-url="" group-title="",Astro Citra
 https://my.odtv.uk/live/9486331171/7860879594/19.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Naura.jpg" tvg-country="" tvg-url="" group-title="",Astro Naura
-http://jlwmedia.xyz/play/SyP_xHPBCiN8Bs15ttY8gcLSEAwW4YajEZe4L7s_ezY
+http://139.99.90.11/live/1159189903/4938860969/20.ts
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-alhijrah-150x150.png" tvg-country="" tvg-url="" group-title="",TV Alhijrah
 http://jlwmedia.xyz/play/SyP_xHPBCiN8Bs15ttY8gXSzAs2eJMSqcIxFuVBPJQE
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/download%20(1).jpg" tvg-country="" tvg-url="" group-title="",Makkah TV
@@ -76,13 +76,13 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg" tvg-country="" tvg-url="" group-title="",tvN Movies
 http://iptv.tvmalaysia.cc:80/kl570/kl570/7074
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 1
-http://iptv.tvmalaysia.cc:80/kl570/kl570/9024
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports2.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 2
-http://iptv.tvmalaysia.cc:80/kl570/kl570/9025
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports3.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 3
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6711
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 4
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6712
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.ytimg.com/vi/738L9yis9fU/mqdefault.jpg" tvg-country="" tvg-url="" group-title="",Astrosports 5
 http://iptv.tvmalaysia.cc:80/kl570/kl570/9029
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/spotvdownload.png" tvg-country="" tvg-url="" group-title="",SpoTV
