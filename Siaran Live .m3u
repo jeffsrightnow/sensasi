@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-TV1.png" tvg-country="" tvg-url="" group-title="",TV1 
-http://iptv.tvmalaysia.cc:80/kl570/kl570/7177
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-TV2.png" tvg-country="" tvg-url="" group-title="",TV2  
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR66fI7OdoEB3pZMYVKxzf18/m3u8
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-TV3.png" tvg-country="" tvg-url="" group-title="",TV3
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-TV9.png" tvg-country="" tvg-url="" group-title="",TV9
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf8E5ux7qfLKC4xyFzMntuw)/dm/3/x6qqja6/s/live-1.m3u8#cell=lsg1
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.mediaprimaomnia.my/wp-content/uploads/2020/07/ntv7-3.jpg" tvg-country="" tvg-url="" group-title="",NTV7
-http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599299
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="",Astro Ria
 http://iptv.tvmalaysia.cc/jalan8/jalan8/6730
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/astro-OASIS.png" tvg-country="" tvg-url="" group-title="",Astro Oasis
