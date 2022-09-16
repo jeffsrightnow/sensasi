@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-TV1.png" tvg-country="" tvg-url="" group-title="",TV1 
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176945
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-TV2.png" tvg-country="" tvg-url="" group-title="",TV2  
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176941
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-TV3.png" tvg-country="" tvg-url="" group-title="",TV3
 https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176946
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-TV9.png" tvg-country="" tvg-url="" group-title="",TV9
@@ -10,15 +10,15 @@ https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176947
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/4d73a070436877.Y3JvcCwxOTUzLDE1MjgsMTA0NCwzNzc.jpg" tvg-country="" tvg-url="" group-title="",NTV7
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Ria.jpg" tvg-country="" tvg-url="" group-title="",Astro Ria
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142668.m3u8
+https://aqfadtv.xyz/ria.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/astro-OASIS.png" tvg-country="" tvg-url="" group-title="",Astro Oasis
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176900
+https://m3u-editor.com/serve/45624650-05a8-11ed-ac47-2704360836c7/598720224
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Prima.png" tvg-country="" tvg-url="" group-title="",Astro Prima
-https://m3u-editor.com/serve/c3eeb1e0-00b0-11ed-a841-9f79fb61b238/595176901
+https://nonton.site:8443/live/mustakim/mustakim/37333.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Warna.jpg" tvg-country="" tvg-url="" group-title="",Astro Warna
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142670.m3u8
+https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Citra.jpg" tvg-country="" tvg-url="" group-title="",Astro Citra
-https://m3u-editor.com/live/sirpn1tr/wcqg89yv/494142671.m3u8
+https://aqfadtv.xyz/citra.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Naura.jpg" tvg-country="" tvg-url="" group-title="",Astro Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.fukuokamasjid.org/wp-content/uploads/2015/03/malaysia-alhijrah-150x150.png" tvg-country="" tvg-url="" group-title="",TV Alhijrah
